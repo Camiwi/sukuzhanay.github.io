@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Camiwi&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Camiwi" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Camiwiy&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Camiwi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Camiwi&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="Camiwi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Camiwi&" alt="Camiwi" /></p>
 
