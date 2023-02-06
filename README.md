@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
+<h1 align="center">Hi 👋, I'm Camilo Betancur</h1>
 <h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
 - 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
@@ -7,11 +7,9 @@
 
 - 👨‍💻 Some of my fun projects are available at [https://Camiwi.me/]
 
-- 📝 I write tech blogs on [https://medium.com/@Camiwi](https://medium.com/@sukuzhanay)
-
 - 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
 
-- 📫 How to reach me **sukuzhanay@gmail.com**
+- 📫 How to reach me **camilobetancur1024@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
